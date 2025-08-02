@@ -1,6 +1,6 @@
-I'll analyze the current README.md file and provide recommendations for improvement.Based on my analysis of the SmartEstate repository, here's a comprehensive and improved README.md that addresses the gaps in the current version:
+MetaRealty - Web3 Property Exchange Protocol
 
-# 🏠 SmartEstate - Real Estate NFT DApp
+Real Estate NFT DApp
 
 > A decentralized real estate marketplace built on Ethereum blockchain, enabling property transactions through NFTs with secure escrow functionality.
 
